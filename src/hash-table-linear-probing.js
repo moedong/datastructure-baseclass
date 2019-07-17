@@ -1,4 +1,4 @@
-import { defaultToString } from '../util';
+import { defaultToString } from './utils/util';
 import { ValuePair } from './models/value-pair';
 
 export default class HashTableLinearProbing {
